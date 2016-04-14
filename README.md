@@ -1,4 +1,4 @@
-# Android Interview Code Exercise
+# Android Candidate Code Exercise
 
 Modify the application logic to have a user submit their name and present them with a personalized greeting
 
@@ -10,3 +10,6 @@ Modify the application logic to have a user submit their name and present them w
 1. If time allows...
     * _Bonus Points_: Validate, only greet the user if valid input was provided
     * _Bonus Points_: Show a validation error on the input field when it doesn't contain a name, but the submit button is pressed
+
+
+<img src="https://cloud.githubusercontent.com/assets/3856142/14533250/4df2948c-0232-11e6-89f2-dfdd64a1eba6.png" width="300">
